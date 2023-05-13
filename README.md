@@ -1,5 +1,6 @@
 # HP-800G4-DW-Hackintosh
 HP-800G4-DW-Hackintosh
+ Catalina, Big Sur, Monterey, Ventura on HP EliteDesk 800 G4/G5 Mini - The perfect MacMini8,1 Hackintosh
 
 My system specs
 HP EliteDesk 800 G5 Mini (I9-9900 / UHD 630 / Q370 Chipset / 32GB DDR4 RAM) (also own 800 G5 Mini with i7-9700, 800 G4 Mini with i7-8700 and have owned 800 G4 Mini with i7-8700T - all work perfectly)
